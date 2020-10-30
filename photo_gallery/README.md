@@ -17,6 +17,12 @@ Build an simple and secured gallery project in php
 
 > cd project folder into Wamp or xammp directory 
 
+> Import Database into mysql server using phpmyadmin
+
+    create database 
+    
+    click on import & select login.sql and click on go
+
 > Run Project 
 
     http://localhost/gallery
